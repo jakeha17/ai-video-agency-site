@@ -1,3 +1,6 @@
+import React from "react";
+import "./globals.css";
+
 export const metadata = {
   title: "AI Video Content Agency",
   description: "Short-form videos that sell for you."
